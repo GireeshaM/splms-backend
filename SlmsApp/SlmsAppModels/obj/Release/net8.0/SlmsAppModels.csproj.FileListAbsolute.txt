@@ -1,0 +1,12 @@
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\bin\Release\net8.0\SlmsAppModels.deps.json
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\bin\Release\net8.0\SlmsAppModels.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\bin\Release\net8.0\SlmsAppModels.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\SlmsAppModels.csproj.AssemblyReference.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\SlmsAppModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\SlmsAppModels.AssemblyInfoInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\SlmsAppModels.AssemblyInfo.cs
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\SlmsAppModels.csproj.CoreCompileInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\SlmsAppModels.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\refint\SlmsAppModels.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\SlmsAppModels.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppModels\obj\Release\net8.0\ref\SlmsAppModels.dll

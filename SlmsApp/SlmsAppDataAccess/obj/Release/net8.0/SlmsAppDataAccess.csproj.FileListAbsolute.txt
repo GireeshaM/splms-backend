@@ -1,0 +1,17 @@
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\bin\Release\net8.0\SlmsAppDataAccess.deps.json
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\bin\Release\net8.0\SlmsAppDataAccess.runtimeconfig.json
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\bin\Release\net8.0\SlmsAppDataAccess.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\bin\Release\net8.0\SlmsAppDataAccess.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\bin\Release\net8.0\SlmsAppModels.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\bin\Release\net8.0\SlmsAppModels.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.csproj.AssemblyReference.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.AssemblyInfoInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.AssemblyInfo.cs
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppD.BDB1CF1D.Up2Date
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\refint\SlmsAppDataAccess.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\SlmsAppDataAccess.genruntimeconfig.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppDataAccess\obj\Release\net8.0\ref\SlmsAppDataAccess.dll

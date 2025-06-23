@@ -1,0 +1,17 @@
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\bin\Release\net8.0\SlmsAppUtilities.deps.json
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\bin\Release\net8.0\SlmsAppUtilities.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\bin\Release\net8.0\SlmsAppUtilities.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\bin\Release\net8.0\SlmsAppDataAccess.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\bin\Release\net8.0\SlmsAppModels.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\bin\Release\net8.0\SlmsAppDataAccess.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\bin\Release\net8.0\SlmsAppModels.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppUtilities.csproj.AssemblyReference.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppUtilities.AssemblyInfoInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppUtilities.AssemblyInfo.cs
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppUtilities.csproj.CoreCompileInputs.cache
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppU.C864E20E.Up2Date
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppUtilities.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\refint\SlmsAppUtilities.dll
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\SlmsAppUtilities.pdb
+C:\Users\RayaRajeshReddy\source\repos\SlmsAppApiMay29\SlmsAppUtilities\obj\Release\net8.0\ref\SlmsAppUtilities.dll
